@@ -1,0 +1,79 @@
+body p h1 h2 h3 h4 h5 h6 a ul li {
+  font-family: "Raleway", sans-serif;
+}
+
+.home-container {
+  background-color: #3a3a39;
+}
+.hello-btn {
+  background-color: #0bbba0;
+  border-top-left-radius: 45px;
+  border-top-right-radius: 45px;
+  border-bottom-right-radius: 45px;
+  width: 150px;
+  color: #e7e7e8;
+  font-size: 20px;
+  font-weight: bold;
+}
+.hello-btn:hover {
+  color: black !important;
+}
+.home-icon-size {
+  font-size: 30px;
+  margin-right: 5px;
+}
+
+.about-container {
+  background-color: #100e17;
+}
+.about-text-align-justify-all {
+  text-align: justify;
+}
+.about-img-border {
+  width: 60%;
+}
+.about-button-design {
+  background-color: #0bbba0;
+  border-radius: 40px;
+  padding: 5px 30px;
+}
+.about-span-color {
+  color: #0bbba0;
+}
+.about-i-color {
+  color: #0bbba0;
+}
+
+.service-container {
+  background-color: rgb(16, 14, 15);
+}
+
+.blog-container {
+  background-color: #100e17;
+}
+.blog-span-color {
+  color: #11b680;
+}
+/* .blog-button-design{
+    background-color: #0BBBA0;
+} */
+
+.tutorial-container {
+  background-color: #060606;
+}
+
+.project-container {
+  background-color: #06060f;
+}
+
+.contact-container {
+  background-color: #060606;
+}
+
+.footer-container {
+  background-color: #2e2c2c;
+}
+
+.alamin-justify {
+  text-align: justify;
+}
